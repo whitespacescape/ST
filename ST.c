@@ -3,6 +3,7 @@
 #include "stddef.h"
 #include "string.h"
 #include "stdio.h"
+function ST(){
 void S(){
     typedef s.tdarg
     typedef s.tdlib
@@ -11,4 +12,5 @@ void S(){
 void T(){
     typeof st.ring
     typeof st.dio
+}
 }
